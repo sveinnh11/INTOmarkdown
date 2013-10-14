@@ -10,7 +10,7 @@ Sveinn Halldór Helgason
 datt allt út sem ég var búin að gera afþví ég keyrði þetta beint af usb lykli.
 Ég held að þetta geti verið sniðugt þegar hópur er að þróa saman hugbúnað.
 
-
+![ScreenShot](https://raw.github.com/sveinnhh/INTOmarkdown/blob/master/skaskot.png)
 
 ![Alt text](https://github.com/sveinnh11/INTOmarkdown/blob/master/skjaskot.png
  "Skjáskot")
