@@ -1,4 +1,4 @@
-#Open Source
+Open Source
 
 Sveinn Halldór Helgason
 
@@ -34,7 +34,21 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+VLC Media Player 
+VideoLAN, VLC, VLC media player and x264 are trademarks internationally registered by the VideoLAN non-profit organization.
+Software are licensed under open-source licenses. Use and distribution are strictly defined by each software license.. 
+http://www.videolan.org/vlc/download-sources.html
+
+Code::Blocks
+Code::Blocks is distributed under the GPL v3.0 license which means it can be
+used freely by anyone!
+
+The only exception is the SDK which is allowed to be linked by closed-source plugins.
+http://www.codeblocks.org/downloads/25
+
+Drjava
+http://www.drjava.org/license.shtml
+http://www.drjava.org/docs/developer/ch02s03.html
 
 ## 5. Unnið með Git (2. hluti)
 
