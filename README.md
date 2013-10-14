@@ -10,9 +10,9 @@ Sveinn Halldór Helgason
 datt allt út sem ég var búin að gera afþví ég keyrði þetta beint af usb lykli.
 Ég held að þetta geti verið sniðugt þegar hópur er að þróa saman hugbúnað.
 
-![Alt text](/home/ubuntu/Myndir/skjaskot.png)
+![GitHub Logo](/home/ubuntu/Myndir/skjaskot.png)
 
-![Alt text](/home/ubuntu/Myndir/skjaskot.png "Skjáskot")
+![GitHub Logo](/home/ubuntu/Myndir/skjaskot.png "Skjáskot")
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
