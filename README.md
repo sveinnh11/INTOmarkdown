@@ -8,7 +8,11 @@ Sveinn Halldór Helgason
 Þetta tók sinn tíma, afþví ég er óvanur linux. en hafðist á endanum.
 Það klikkaði eh hjá mér í miðju verkefni og þurfti að enduræsa vélina. en þá
 datt allt út sem ég var búin að gera afþví ég keyrði þetta beint af usb lykli.
- Ég held að þetta geti verið sniðugt þegar hópur er að þróa saman hugbúnað.
+Ég held að þetta geti verið sniðugt þegar hópur er að þróa saman hugbúnað.
+
+![Alt text](/home/ubuntu/Myndir/skjaskot.png)
+
+![Alt text](/home/ubuntu/Myndir/skjaskot.png "Skjáskot")
 
 Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
