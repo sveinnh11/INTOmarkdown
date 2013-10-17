@@ -1,7 +1,4 @@
-Open Source
-
-<ol>
-<li>var einn í hóp:</li>
+>
 <li>Sveinn Halldór Helgason</li>
 </ol>
 
