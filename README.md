@@ -1,6 +1,10 @@
 Open Source
 
-*red Sveinn Halldór Helgason
+<ol>
+<li>var einn í hóp:</li>
+<li>Sveinn Halldór Helgason</li>
+</ol>
+
 
 ## 1. Linux uppsetning
 
