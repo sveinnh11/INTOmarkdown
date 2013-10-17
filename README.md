@@ -12,8 +12,6 @@ datt allt út sem ég var búin að gera afþví ég keyrði þetta beint af usb
 
 ![Image] (https://raw.github.com/sveinnh11/INTOmarkdown/master/skjaskot.png?raw=true)
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
-
 ## 2. Uppsetning á vim && git
 
 Ég þurfti að uppfæra til að geta installað vim pakkanum.
@@ -44,7 +42,6 @@ http://www.videolan.org/vlc/download-sources.html
 Code::Blocks
 Code::Blocks is distributed under the GPL v3.0 license which means it can be
 used freely by anyone!
-
 The only exception is the SDK which is allowed to be linked by closed-source plugins.
 http://www.codeblocks.org/downloads/25
 
