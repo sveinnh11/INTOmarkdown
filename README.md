@@ -1,6 +1,6 @@
 Open Source
 
-Sveinn Halldór Helgason
+*red Sveinn Halldór Helgason
 
 ## 1. Linux uppsetning
 
